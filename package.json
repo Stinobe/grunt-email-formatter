@@ -1,7 +1,7 @@
 {
     "name": "grunt-email-formatter",
-    "description": "Optimize your HTML for emails. Place all your CSS inline & optimize images.",
-    "version": "0.0.2",
+    "description": "Optimize your HTML for emails by placing CSS inline. More to come! Check our ToDo-list!",
+    "version": "0.5.0",
     "homepage": "https://github.com/Gothematic/grunt-email-formatter",
     "author": {
         "name": "Gothematic",
@@ -42,7 +42,7 @@
         "grunt": "~0.4.5"
     },
     "keywords": [
-    "gruntplugin"
+    "gruntplugin mail email css inline formatter"
   ],
     "dependencies": {
         "chalk": "^1.0.0",
