@@ -42,6 +42,12 @@ grunt.initConfig({
 
 At this moment options are not supported, but it's the first thing on our todo-list!
 
+## Our todo-list
+* Make options available
+* Optimize images
+* Create a zip-file for tools like Email on acid, Silverpop, ...
+* ...
+
 ## Used NPM packages
 
 * [Path](https://www.npmjs.com/package/path)
@@ -54,4 +60,4 @@ At this moment options are not supported, but it's the first thing on our todo-l
 In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
 
 ## Release History
-_(Nothing yet)_
+March 25th 2015 - First initial commit
